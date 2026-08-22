@@ -1,0 +1,8 @@
+# Editors
+.vscode/
+
+# Windows
+Thumbs.db
+
+# suggested Python util meta deta
+.Python
