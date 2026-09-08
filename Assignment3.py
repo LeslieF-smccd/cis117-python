@@ -46,5 +46,5 @@ else:
 print("\n\nTesting in range numbers, without user input:")
 test_set = [1, 37, 92, 99, 100, 101, 280]
 for i in range(len(test_set)):
-    print(f"  Test of {test_set[i]:3d} - ", end='')
+    print(f"  Test of {test_set[i]:3d} - ", end = '')
     report_highway(test_set[i])
